@@ -2,8 +2,6 @@
 
 <img src="img/flexblog.png" alt="FlexBlog"> <br>
 
-<hr>
-
 # 🕹 Tecnologias
 
 Neste projeto foram utilizadas as seguintes tecnologias:
